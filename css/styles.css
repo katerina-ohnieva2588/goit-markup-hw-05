@@ -507,6 +507,7 @@ img {
 
 .social-networks {
     margin-right: 120px;
+    margin-right: 80px;
 }
 
 
@@ -554,6 +555,7 @@ img {
 }
 .logo-end {
     margin-right: 120px;
+    min-width: 264px;
 }
 
 .subscribe-form {
