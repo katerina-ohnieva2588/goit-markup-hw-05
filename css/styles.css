@@ -778,7 +778,12 @@ img {
 }
 
 .form-field-wrapper {
-    margin-bottom: 8px 16px;
+    margin-bottom: 16px;
+}
+
+
+.form-field-checkbox {
+    margin-bottom: 24px;
 }
 
 .policy-checkbox:checked + .policy-label>.custom-checkbox {
@@ -851,8 +856,8 @@ img {
     
 }
 
-.text-filed:focus + .field-icon {
-   color: #4d5ae5;  
+.text-field:focus + .field-icon {
+   fill: #4d5ae5;  
     
     
 }
